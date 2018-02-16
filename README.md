@@ -1,10 +1,22 @@
 # MMSys Demo
 
-# Prerequisits
+## Getting Started
+
+### Prerequisits
 - Python 3.6
 - Keras 2.0.8
 - Tensorflow 1.3
 
-# Intallation
+### Intallation
 
-# Usage
+### Usage
+
+## Deployment
+
+## Built With
+
+## Authers
+
+## License
+
+## Acknowledgments
