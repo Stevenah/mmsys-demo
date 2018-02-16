@@ -15,7 +15,7 @@
 
 ## Built With
 
-## Authers
+## Authors
 
 ## License
 
