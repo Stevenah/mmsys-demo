@@ -1,6 +1,6 @@
 # MMSys Demo
 
-# Pre-requisits
+# Prerequisits
 - Python 3.6
 - Keras 2.0.8
 - Tensorflow 1.3
